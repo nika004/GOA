@@ -27,11 +27,6 @@ for i in animals:
     else:
         print(i, "is too long")
 
-# if animals < 5:
-#     print("მოკლეა")
-# else:
-#     print("გრძელია")
-
 
 names = ["nika", "mari", "gio", "lasha"]
 for i in names:

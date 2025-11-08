@@ -6,7 +6,7 @@ def sum_three_numbers(num1, num2, num3):
     return num1 + num2 + num3
 
 def user_info(name, age):
-    return name , age
+    print(name, "is", age,"წლის") 
 
 def square(num):
     return num ** 2
